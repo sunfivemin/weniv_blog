@@ -19,3 +19,30 @@ print('helllo world test')
 for i in range(10):
     print(i)
 ```
+
+CSS 코드:
+```css
+body {
+    background-color: lightblue;
+}
+p {
+    color: navy;
+    font-size: 20px;
+}
+```
+
+JavaScript 코드:
+```javascript
+for (let i = 0; i < 10; i++) {
+    console.log('Hello, JavaScript!');
+}
+```
+
+Java 코드:
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+}
+```
